@@ -3,13 +3,15 @@
   "scripts": {
     "dev": "vitepress dev --port 5176",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "deploy": "npm run build && wrangler deploy",
+    "preview": "vitepress preview && wrangler dev"
   },
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.16"
+    "vitepress": "^2.0.0-alpha.17",
+    "wrangler": "^4.107.0"
   },
   "dependencies": {
-    "vue": "^3.5.28"
+    "vue": "^3.5.39"
   },
   "prettier": {
     "bracketSameLine": true,

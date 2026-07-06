@@ -1,5 +1,5 @@
 <script setup>
-import { computed, defineProps } from "vue";
+import { computed } from "vue";
 
 let props = defineProps({
   since: { type: String }, // Date string
