@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sheep-computer-science-website",
+  "compatibility_date": "2026-07-06",
+  "observability": {
+    "enabled": true,
+  },
+  "assets": {
+    "directory": ".vitepress/dist",
+  },
+  "compatibility_flags": ["nodejs_compat"],
+}
