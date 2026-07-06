@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "sheep-computer-science-website",
+  "name": "sheepcomputerscience",
   "compatibility_date": "2026-07-06",
   "observability": {
     "enabled": true,
