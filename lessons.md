@@ -23,18 +23,26 @@ aside: false
   - Understand data by recognizing patterns
   - Use real data and a large-enough database to look for insights (MS Northwind as Sqlite https://github.com/jpwhite3/northwind-SQLite3)
 - Algorithm Development via Whiteboard
-  - Fibonacci, Sorting, games like Monty Hall
+  - Fibonacci, Sorting, game proofs like Monty Hall
+  - Collection types (arrays, objects, and more)
 - Programming our algorithms
+  - Compare programming languages
   - Variables, ifs, loops, subroutines,
+  - Functions, recursion, patterns, reuse
   - Making changes based on new requirements
   - Collaboration
-  - (they want to talk libraries, licensing, accessibility, and documentation)
+  - Version control, IDEs, collab tools, documentation, testing, code reviews
+  - (they want to talk libraries, licensing, and accessibility)
+- AI deep dive, how it works, how to make one
 - Sociology topics
   - Computers as a world transforming concept
     - Especially collaboration tools
-  - Licensing - e.g. Windows vs Linux, the internet, OSS vs closed
-  - Privacy and personal security
-  - (they want algorithmic bias )
+  - Intellectual property law, OSS vs closed, GNU vs commercial
+  - Computers: good vs evil - you decide!
+  - Privacy, personal security & data collection (good sides, bad sides)
+  - Net neutrality
+  - Predict the future of computing!
+  - (they want algorithmic bias, DEI, law)
 
 ## 9-10 - High School Core
 
@@ -81,7 +89,7 @@ aside: false
 - ✔️ Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields.
 - ✔️ Explain the beneficial and harmful effects that intellectual property laws can have on innovation.
 - ✔️ Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.
-- Evaluate the social and economic implications of privacy in the context of safety, law, or ethics.
+- ✔️ Evaluate the social and economic implications of privacy in the context of safety, law, or ethics.
 
 ## 11-12 High School Specialty
 
@@ -103,27 +111,27 @@ aside: false
 
 #### Algorithms and Programming
 
-- Describe how artificial intelligence drives many software and physical systems.
-- Implement an artificial intelligence algorithm to play a game against a human opponent or solve a problem.
-- Use and adapt classic algorithms to solve computational problems. Algorithms 4.
-- Evaluate algorithms in terms of their efficiency, correctness, and clarity
-- Compare and contrast fundamental data structures and their uses.
-- Illustrate the flow of execution of a recursive algorithm.
-- Construct solutions to problems using student-created components, such as procedures, modules and/or objects.
-- Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution.
-- Demonstrate code reuse by creating programming solutions using libraries and APIs.
-- Plan and develop programs for broad audiences using a software life cycle process.
-- Explain security issues that might lead to compromised computer programs.
-- Develop programs for multiple computing platforms.
-- Use version control systems, integrated development environments (IDEs), and collaborative tools and practices (code documentation) in a group software project.
-- Develop and use a series of test cases to verify that a program performs according to its design specifications.
-- Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g., breaking other functionality).
-- Evaluate key qualities of a program through a process such as a code review.
-- Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems.
+- ✔️ Describe how artificial intelligence drives many software and physical systems.
+- ✔️ Implement an artificial intelligence algorithm to play a game against a human opponent or solve a problem.
+- ✔️ Use and adapt classic algorithms to solve computational problems. Algorithms 4.
+- ✔️ Evaluate algorithms in terms of their efficiency, correctness, and clarity
+- ✔️ Compare and contrast fundamental data structures and their uses.
+- ✔️ Illustrate the flow of execution of a recursive algorithm.
+- ✔️ Construct solutions to problems using student-created components, such as procedures, modules and/or objects.
+- ✔️ Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution.
+- ✔️ Demonstrate code reuse by creating programming solutions using libraries and APIs.
+- ✔️ Plan and develop programs for broad audiences using a software life cycle process.
+- ✔️ Explain security issues that might lead to compromised computer programs.
+- ✔️ Develop programs for multiple computing platforms.
+- ✔️ Use version control systems, integrated development environments (IDEs), and collaborative tools and practices (code documentation) in a group software project.
+- ✔️ Develop and use a series of test cases to verify that a program performs according to its design specifications.
+- ✔️ Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g., breaking other functionality).
+- ✔️ Evaluate key qualities of a program through a process such as a code review.
+- ✔️ Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems.
 
 #### Impacts of Computing
 
-- Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society.
-- Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society.
-- Predict how computational innovations that have revolutionized aspects of our culture might evolve.
-- Debate laws and regulations that impact the development and use of software.
+- ✔️ Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society.
+- ✔️ Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society.
+- ✔️ Predict how computational innovations that have revolutionized aspects of our culture might evolve.
+- ✔️ Debate laws and regulations that impact the development and use of software.
