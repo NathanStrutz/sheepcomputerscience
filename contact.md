@@ -11,7 +11,3 @@ You can always contact us through your student's Google Classroom account - leav
 Email: [nathan@sheep.education](mailto:nathan@sheep.education)
 
 Phone (text or call): 843-900-1431
-
-## Samantha
-
-Email: [samantha.siegal@sheep.education](mailto:samantha.siegal@sheep.education)
