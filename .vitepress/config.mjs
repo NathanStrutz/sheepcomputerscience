@@ -19,7 +19,7 @@ export default defineConfig({
           { text: "When & Where", link: "/vital-information" },
           { text: "Contact", link: "/contact" },
           { text: "Your Teachers", link: "/about-your-teachers" },
-          { text: "What We Learn", link: "/syllabus" },
+          { text: "Syllabus", link: "/syllabus" },
           { text: "How to Ask For Help", link: "/how-to-ask-for-help" },
           { text: "Computers", link: "/computer" },
           { text: "Computer Shopping", link: "/computer-shopping" },
