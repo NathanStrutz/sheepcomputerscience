@@ -242,6 +242,13 @@ Because South Carolina says 1 high school credit is 120 hours of work, and we ha
   </tbody>
 </table>
 
+## ★ Skill Challenges
+
+22 assignments have a basic homework assignment and a ★ skill challenge assignment.
+
+- **Underclassmen** (grades 9-10) are not expected to complete these. Any of these challenge assignments completed are counted as bonus points toward the total semester grade.
+- **Upperclassmen** (grades 11-12) are expected to attempt these, and are required to complete at least 10 challenge assignments. Any additional challenge assignments completed are counted as bonus points toward the total semester grade.
+
 <style>
    td[colspan] {
       background-color: rgba(207, 185, 151, 0.2);
