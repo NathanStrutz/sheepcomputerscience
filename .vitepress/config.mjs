@@ -20,7 +20,6 @@ export default defineConfig({
           { text: "Contact", link: "/contact" },
           { text: "Your Teachers", link: "/about-your-teachers" },
           { text: "What We Learn", link: "/syllabus" },
-          { text: "Homework Overview", link: "/homework" },
           { text: "How to Ask For Help", link: "/how-to-ask-for-help" },
           { text: "Computers", link: "/computer" },
           { text: "Computer Shopping", link: "/computer-shopping" },

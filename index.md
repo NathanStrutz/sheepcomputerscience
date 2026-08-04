@@ -17,16 +17,16 @@ hero:
       link: /about-your-teachers
 
 features:
-  - title: What We Learn
-    details: What kinds of skills will you learn in this class? Here's the syllabus to tell you.
+  - title: The Syllabus
+    details: Let's call it an outline, a foundation to aim for, and a good starting place
     link: /syllabus
-  - title: Homework Preview
-    details: What to expect - What's due
-    link: /homework
   - title: Your Computer
     details: What computers can be used in this class?
     link: /computer
   - title: Buying a Computer?
     details: We wrote an easy guide to help you find the right one
     link: /computer-shopping
+  - title: AI Policy
+    details: Every class has an AI policy. Our class is a little more complex than most.
+    link: /ai-policy
 ---
