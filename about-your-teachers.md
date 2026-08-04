@@ -22,7 +22,7 @@ _Mr. Strutz, or Mr. Nathan_
 
 Nathan was born at a young age, and quickly thereafter found Jesus and computers, and has spent a lifetime connected to both. Nathan has worked in the computing field for over 25 years. Most recently, <YearsSince since="2007-09-05" /> years at Boeing, which moved the Strutz family to the lowcountry just <YearsSince since="7/1/2014" /> short years ago.
 
-Nathan started teaching _Intro to Coding_ at SHEEP in 2020, which is now [_Computer Coding & Programming_](https://sheepcomputercodingandprogramming.netlify.app/). He started teaching middle school _[Computer Fundamentals](https://sheepcomputerfundamentalsclass.netlify.app/)_ in 2024. SHEEP Computer Science's first year is 2026.
+Nathan started teaching _Intro to Coding_ at SHEEP in 2020, which is now [_Computer Coding & Programming_](https://computer-programming.sheep.fyi/). He started teaching middle school _[Computer Fundamentals](https://computer-fundamentals.sheep.fyi/)_ in 2024. SHEEP Computer Science's first year is 2026.
 
 ## Alanda
 
