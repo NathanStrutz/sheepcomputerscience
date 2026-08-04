@@ -18,13 +18,13 @@ hero:
 
 features:
   - title: The Syllabus
-    details: Let's call it an outline, a foundation to aim for, and a good starting place
+    details: It's our plan, week-by-week, including homework assignments.
     link: /syllabus
   - title: Your Computer
     details: What computers can be used in this class?
     link: /computer
   - title: Buying a Computer?
-    details: We wrote an easy guide to help you find the right one
+    details: We wrote an easy guide to help you find the right one.
     link: /computer-shopping
   - title: AI Policy
     details: Every class has an AI policy. Our class is a little more complex than most.
