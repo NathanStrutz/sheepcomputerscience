@@ -26,19 +26,27 @@ Our class strongly prefers that you use Windows-based notebook PCs.
 - You may use a MacBook, with permission, but with major caveats.
 - No, tablets and phones won't work for Computer Science.
 
+:::danger Do Not
+Do not show up to class with a **Chromebook** unless you have received explicit permission from Nathan, in writing. Most software we need to install will not run.
+:::
+
+:::warning Please Do Not
+Please don't show up to class on the first day with a **MacBook**, I know you paid a lot for it, but we cannot spend the entire year troubleshooting random problems. Please get permission from Nathan while you still have plenty of time to purchase something else.
+:::
+
 ##### All laptops need at least 8 GB of RAM
 
-Need help understanding the computer parts jargon? Check the [computer shopping](computer-shopping) page.
+The more you have, the better a computer will work. Need help understanding the computer parts jargon? Check the [computer shopping](computer-shopping) page.
 
 ### Windows
 
-Windows-based computers are the most common computers in the world, and knowing how to use them is critical to working most jobs. I highly recommend sending your student to school with one of these.
+Windows-based computers are the most common computers in the world, and knowing how to use them is critical to working most jobs. Please send your student to school with one of these.
 
 Windows 11 is the current version. If your laptop does not have this, it's probably too old. If it originally shipped with windows 7, 8 or Vista, it's definitely too old.
 
 Please check your computer for **Windows "S Mode" that won't allow us to install programs** or do the things we need in our class.
 
-Please **check for Windows Updates** and install all the updates your Windows-based PC can handle. We need you to do this at home so that Windows doesn't try to install them during class. Time in our class is precious - we get 1 hour per week maximum, so we need to optimize it as much as possible.
+Please **check for Windows Updates** and install all the updates your Windows-based PC can handle. We need you to do this at home so that Windows doesn't try to install them during class. Time in our class is precious - we get 1 hour per week, so we need to optimize it as much as possible.
 
 :::tip Permissions Check
 Please check to make sure that your student has the necessary permissions in Windows to install programs when we need to. Check the User Account Controls. If your student has a child account or limited account, please remove these restrictions.
@@ -46,31 +54,29 @@ Please check to make sure that your student has the necessary permissions in Win
 
 ### Chromebooks
 
-Chrome OS is popular in schools because of its low price. Chromebooks require less computing power, so the devices tend to be far less capable, which is a danger when we need to use them for our class.
+Chrome OS is popular in schools because of its low price, however the devices tend to be far less capable. Even a highly capable Chromebook will need advanced configurations, requiring you to install Linux, allocate about half of the disk storage to Linux, and quickly become comfortable using the command line and installing programs via the APT package manager.
 
-:::warning Warning - Not All Chromebooks Will Work!
-Many Chromebooks do not have the computing power necessary to install Linux. This is especially true for older Chromebooks and those with inexpensive MediaTek or Qualcomm (smartphone) CPUs.
-:::
-
-The best way to know your Chromebook is powerful enough is to buy a "Chromebook Plus" model.
+Many Chromebooks do not have the computing power necessary to install Linux. This is especially true for older Chromebooks and those with inexpensive CPUs.
 
 ##### Using a Chromebook for This Class is Difficult
 
-The programs we use are guaranteed to work on Windows, but not on Chromebooks. We can usually find compatible, similar software for Linux, but this means your Chromebook must have Linux installed. Students may need to install Linux software via the command-line, so they would need to be familiar with apt, sudo, grep, and various other Linux commands.
+If you choose to use a Chromebook, please install Linux in your Chromebook before we start our first class-- _right now if possible!_
 
-If you choose to use a Chromebook, please install Linux in your Chromebook before we start our first class-- right now if possible.
+##### The Permissions Clause
+
+Because of the difficulty of using a Chromebook for this class, I must insist that you ask permission from me - [Nathan](./about-your-teachers) - before you come to school.
 
 ### MacOS, MacBooks, Apple Products
 
-Macs that can run the current latest version of OS X will work in our class, however this is a bad idea.
+Macs that can run the current latest version of OS X will probably work in our class, however this is a bad idea.
 
 > What? Why?
 
-The short story is that we don't use Apple computers. I (Nathan) see them as somewhat fringe, extravagant, niche computing devices, even still. There's also a much longer story I can tell about overpriced hardware and closed ecosystems, but it really comes down to the fact that I can't support or troubleshoot any problems on a Mac.
+The short story is that we don't use Apple computers. I (Nathan) see them as somewhat fringe, extravagant, niche computing devices, even still. There's also a much longer story I can tell about overpriced hardware and closed ecosystems, but it really comes down to the fact that I can't support or troubleshoot any problems on a Mac, and it's rare that any student understands the OS enough to navigate it while the rest of the class is running circles around them.
 
-If you are _insistent_ on using Apple devices, have you considered installing Windows on your MacBook? Look into Apple's Boot Camp Assistant.
+If you are _insistent_ on using Apple devices, can you run Windows in a VM?
 
-If you send your child to SHEEP with a Mac, work with them first to make sure they understand the OS and how to use all aspects of it! Every year, we see students on Macbooks lose their files, not understand how to use the Finder, and not understand the primary menu context. Don't let this be your student!
+If you send your child to SHEEP with a Mac, you need to work with them for a couple hours to make sure they understand the OS and how to use all aspects of it! Every year, we see students on MacBooks lose their files, not understand how to use the Finder, not know how to install a program, not know how to close a program, and not understand the primary menu context. Don't let it be your student this year!
 
 We may require software that cannot run on a Mac, and it is your responsibility to come up with an alternative, learn that alternative, and teach it to your own child.
 
@@ -83,9 +89,12 @@ We may require software that cannot run on a Mac, and it is your responsibility 
 
 :::
 
-Throughout the year, we will install programs on this computer. You may get a glimpse of them in the [syllabus](syllabus). Please make sure your student has all the necessary permissions on the laptop to install programs.
+Throughout the year, we will install programs on this computer. You may get a glimpse of them in the [syllabus](syllabus). Please make sure your student has all the necessary permissions on the laptop to install programs. Some of the identified programs are:
 
-The complete list of software will be added to the website as soon as we have it.
+- [VSCodium](https://vscodium.com/) (code editor sans AI)
+- [Python](https://www.python.org/) via Python Install Manager (programming language)
+- [LM Studio](https://lmstudio.ai/) (local AI)
+- [DB Browser for SQLite](https://sqlitebrowser.org/) (database management)
 
 ## What Online Accounts Will Be Made?
 
@@ -93,4 +102,8 @@ As you know, online tools always require accounts. This is critical to using app
 
 The primary account you need is a Google account for Google Classroom, which will also open up access to Google Drive, Docs, Sheets, Slides, Gmail, Gemini, and more.
 
-Some classes will create accounts at Canva. More services will be added to this list as we discover them.
+We may create accounts on these websites:
+
+- [Tinkercad](https://www.tinkercad.com/) (for 3D modeling)
+- [Canva](https://www.canva.com/) (design)
+- [Typing Club](https://www.typingclub.com/) (for typing practice)
