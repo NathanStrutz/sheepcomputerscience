@@ -26,6 +26,9 @@ features:
   - title: Buying a Computer?
     details: We wrote an easy guide to help you find the right one.
     link: /computer-shopping
+  - title: Computer Setup
+    details: Required software, online accounts, and some websites we will be visiting.
+    link: /computer-setup
   - title: AI Policy
     details: Every class has an AI policy. Our class is a little more complex than most.
     link: /ai-policy

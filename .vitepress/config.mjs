@@ -23,6 +23,7 @@ export default defineConfig({
           { text: "How to Ask For Help", link: "/how-to-ask-for-help" },
           { text: "Computers", link: "/computer" },
           { text: "Computer Shopping", link: "/computer-shopping" },
+          { text: "Computer Setup", link: "/computer-setup" },
           { text: "AI Policy", link: "/ai-policy" },
         ],
       },

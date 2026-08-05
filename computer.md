@@ -6,24 +6,12 @@ title: Computers for Computer Science
 
 Students are required to bring a fully working computer to class every week. It needs to have battery capacity to last the entire class hour, or else bring a power adapter and possibly an extension cord. The lessons are about computers, done while using the computer, so students will need a computer. SHEEP will not provide this for you.
 
-#### Practical Concerns: weight, space, dropping, thieves
-
-Some common issues with bringing a laptop to school are the size and weight in a backpack, and fear of it getting damaged, stolen, or lost. While we cannot guarantee you will be free from problems, we can recommend some solutions to plan ahead:
-
-1. Leave it in your car. Often parents may camp out in the parking lot or come-and-go as their children have classes in different periods. If it is convenient, leave your computer in the vehicle. I recommend storing it in the trunk or where it is not visible. This saves space in backpacks, and reduces the risk of it getting dropped, lost, or stolen throughout the day.
-
-2. Buy a smaller, especially thinner, lightweight device that your student can carry more easily. While there is a higher price for sub-notebook computers, there is a lower price for a smaller screen. Look for a good compromise [when you go shopping](computer-shopping).
-   - Most laptops weight 4 to 6 pounds, but range from 2 to 8
-   - A 17" screen is extremely large and requires an oversized backpack or case; 15" is average, 12" is often too small
-
-3. Add a decoration (stickers, paint, etc) to make sure your computer is easily distinguishable from others. This makes it harder for someone to walk off with it.
-
 ## What Computers Will Work?
 
 Our class strongly prefers that you use Windows-based notebook PCs.
 
-- You may use a Chromebook, with permission, but it will be difficult to configure.
-- You may use a MacBook, with permission, but with major caveats.
+- You should not use a Chromebook, it will be very difficult to configure.
+- You may use a MacBook, with permission, but with major caveats - read below.
 - No, tablets and phones won't work for Computer Science.
 
 :::danger Do Not
@@ -80,30 +68,14 @@ If you send your child to SHEEP with a Mac, you need to work with them for a cou
 
 We may require software that cannot run on a Mac, and it is your responsibility to come up with an alternative, learn that alternative, and teach it to your own child.
 
-## What Software Will Be Needed?
+## Practical Concerns: Weight, Space, Dropping, Thieves
 
-::: warning Standard Software
+Some common issues with bringing a laptop to school are the size and weight in a backpack, and fear of it getting damaged, stolen, or lost. While we cannot guarantee you will be free from problems, we can recommend some solutions to plan ahead:
 
-1. Please make sure your child's computer has the latest operating system updates.
-2. Please make sure they have a web browser that you like, such as Firefox or Chrome.
+1. Leave it in your car. Often parents may camp out in the parking lot or come-and-go as their children have classes in different periods. If it is convenient, leave your computer in the vehicle. I recommend storing it in the trunk or where it is not visible. This saves space in backpacks, and reduces the risk of it getting dropped, lost, or stolen throughout the day.
 
-:::
+2. Buy a smaller, especially thinner, lightweight device that your student can carry more easily. While there is a higher price for sub-notebook computers, there is a lower price for a smaller screen. Look for a good compromise [when you go shopping](computer-shopping).
+   - Most laptops weight 4 to 6 pounds, but range from 2 to 8
+   - A 17" screen is extremely large and requires an oversized backpack or case; 15" is average, 12" is often too small
 
-Throughout the year, we will install programs on this computer. You may get a glimpse of them in the [syllabus](syllabus). Please make sure your student has all the necessary permissions on the laptop to install programs. Some of the identified programs are:
-
-- [VSCodium](https://vscodium.com/) (code editor sans AI)
-- [Python](https://www.python.org/) via Python Install Manager (programming language)
-- [LM Studio](https://lmstudio.ai/) (local AI)
-- [DB Browser for SQLite](https://sqlitebrowser.org/) (database management)
-
-## What Online Accounts Will Be Made?
-
-As you know, online tools always require accounts. This is critical to using applications such as Google Docs. We will do our best to form good password practices when required, and to alert parents ahead of time.
-
-The primary account you need is a Google account for Google Classroom, which will also open up access to Google Drive, Docs, Sheets, Slides, Gmail, Gemini, and more.
-
-We may create accounts on these websites:
-
-- [Tinkercad](https://www.tinkercad.com/) (for 3D modeling)
-- [Canva](https://www.canva.com/) (design)
-- [Typing Club](https://www.typingclub.com/) (for typing practice)
+3. Add a decoration (stickers, paint, etc) to make sure your computer is easily distinguishable from others. This makes it harder for someone to walk off with it.
