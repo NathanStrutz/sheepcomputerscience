@@ -30,7 +30,7 @@ _It's pronounced like "Amanda" but with an "L"_
 
 <img src="/i/alanda-4-5.jpg" alt="Alanda" class="profile-photo">
 
-Alanda has spent her professional life in real estate, insurance, and missions, but started teaching at SHEEP in 2018 when she became impassioned about teaching young people the most important lessons at the most critical point of their life - how to succeed at life before adulthood. It's a labor of love, and she loves deeply. She also teaches the Public Speaking and Consumer Math class.
+Alanda has spent her professional life in real estate, insurance, and missions, but started teaching at SHEEP in 2018 when she became impassioned about teaching young people the most important lessons at the most critical point of their life - how to succeed at life before adulthood. It's a labor of love, and she loves deeply. She also teaches the Public Speaking and Consumer Math classes in addition to _Computer Fundamentals_ and _Computer Science_ with Nathan.
 
 In 2016, Alanda started a nonprofit missions organization, [Precious Ones Ministries](https://www.preciousonesministries.org/), which provides hope to people in need through education, nutrition, and bibles!
 
