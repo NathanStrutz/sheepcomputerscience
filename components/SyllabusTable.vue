@@ -2,7 +2,10 @@
   <table>
     <thead>
       <tr>
-        <th>Week</th>
+        <th>
+          <div class="no-print">Week</div>
+          <div class="print-only">W</div>
+        </th>
         <th>Class Time</th>
         <th>Homework</th>
       </tr>
