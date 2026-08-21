@@ -25,3 +25,9 @@ We may create accounts on these websites:
 - [Tinkercad](https://www.tinkercad.com/) (for 3D modeling)
 - [Canva](https://www.canva.com/) (design)
 - [Typing Club](https://www.typingclub.com/) (for typing practice)
+
+If you use a website filtering product such as Microsoft Family Safety, you may also need to allow these:
+
+- [Google Search](https://www.google.com/)
+- [Microsoft Datacenters](https://datacenters.microsoft.com/)
+- [GitHub](https://www.github.com/)
