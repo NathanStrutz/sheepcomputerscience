@@ -20,6 +20,9 @@ features:
   - title: The Syllabus
     details: It's our plan, week-by-week, including homework assignments.
     link: /syllabus
+  - title: How the Class Works
+    details: "Everything about the class we don't answer elsewhere: assignments, slideshows, Classroom, & more."
+    link: /about
   - title: Your Computer
     details: What computers can be used in this class?
     link: /computer
