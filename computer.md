@@ -52,7 +52,7 @@ If you choose to use a Chromebook, please install Linux in your Chromebook befor
 
 ##### The Permissions Clause
 
-Because of the difficulty of using a Chromebook for this class, I must insist that you ask permission from me - [Nathan](./about-your-teachers) - before you come to school.
+Because of the difficulty of using a Chromebook for this class, I must insist that you ask permission from me - [Nathan](./contact.html) - before you come to school.
 
 ### MacOS, MacBooks, Apple Products
 
